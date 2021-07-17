@@ -1,0 +1,57 @@
+ body{
+   background-color: skyblue;
+ }
+  .heading
+  {
+    width: 70%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+    margin:1%;
+    border-radius: 15px;
+    color: red;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: green;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: large;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px gray;
+    font-size: 20px;
+  }
+  footer{
+    background-color: grey;
+    color: whitesmoke;
+    position: fixed;
+    bottom: 0;
+    width:90%;
+    line-height: 2.5;
+    text-align: center;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    border-radius: 12px;
+
+  }
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+  canvas{
+    border: black 3px solid;
+    border-radius: 15px;
+    box-shadow: 12px 12px 15px grey;
+    margin-top: 220px;
+    margin-left: 100px;
+  }
